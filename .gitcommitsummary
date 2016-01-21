@@ -1,0 +1,8 @@
+{
+	"repoCommitLink": "https://github.com/pretty-good-chat/pretty-good-chat-api/commit/",
+	"headerLines": [
+		"| Commit | Type | Description |",
+		"| ------ | ---- | ----------- |"
+	],
+	"footerLines": []
+}

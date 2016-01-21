@@ -1,0 +1,7 @@
+# folders
+/node_modules
+
+# files
+npm-debug.log
+release-notes.txt
+/bin/pretty-good-chat.js
